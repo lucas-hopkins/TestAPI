@@ -1,9 +1,9 @@
 ﻿using System.Linq;
 using Microsoft.AspNetCore.Mvc;
-using MovieStore.Models;
-using MovieStore.Repositories;
+using TestAPI.Models;
+using TestAPI.Repositories;
 
-namespace MovieStore.Controllers
+namespace TestAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

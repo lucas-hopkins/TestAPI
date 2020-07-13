@@ -1,12 +1,9 @@
 ﻿using Dapper;
-using MovieStore.Models;
-using System;
+using TestAPI.Models;
 using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace MovieStore.Repositories
+namespace TestAPI.Repositories
 {
     public class ActorRepository
     {

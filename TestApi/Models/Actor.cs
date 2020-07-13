@@ -12,7 +12,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Threading.Tasks;
 
-namespace MovieStore.Models
+namespace TestAPI.Models
 {   
     [JsonObject]
     public class Actor

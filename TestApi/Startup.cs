@@ -3,12 +3,12 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using MovieStore.Repositories;
+using TestAPI.Repositories;
 using System.Data;
 using MySqlConnector;
 using System.Data.SqlClient;
 
-namespace MovieStore
+namespace TestAPI
 {
     public class Startup
     {
